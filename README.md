@@ -1,0 +1,4 @@
+myticker
+========
+
+jquery news ticker
